@@ -1,0 +1,20 @@
+{
+  "name": "tokped-clone-gg3",
+  "version": "1.0.0",
+  "description": "assignment from generasi gigih 3.0",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Muhammad Ildha",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1",
+    "nodemon": "^3.0.1"
+  }
+}
