@@ -14,6 +14,7 @@ deployed app link: [https://muh-gg3-final.vercel.app/](https://muh-gg3-final.ver
 * Navbar that contain link back to home page, user profile picture on top right, the user is set as "guest" as this project don't provide signup & sign in, and toggle light/dark mode beside the user avatar
 * Randomized user avatar for commenting from [RoboHash](https://robohash.org/)
 * Loading indicator using spinner and skeleton from chakraUI
+* * Created and used 2 custom hooks(as required in final project assignment)
 
 ## How to run in Local:
 1. git clone
