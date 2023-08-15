@@ -4,6 +4,8 @@ A simple web project for completition requirement of Generasi GIGIH 3.0 Program 
 
 all of video and product data are just for the sake of showcasing in a learning project and not real products.
 
+deployed app link: [https://muh-gg3-final.vercel.app/](https://muh-gg3-final.vercel.app/)
+
 ## Features:
 * Home page with list of videos and their thumbnails from [Youtube](https://www.youtube.com), user can click the thumbnail to go to detail video page.
 * Detail Video page where user can see youtube embed video, product list, and comment section
